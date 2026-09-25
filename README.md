@@ -1,198 +1,133 @@
-<h1 align="center">Hi 👋, I'm Iheb Heni</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Full-Stack Developer • Laravel & Vue.js • AI Enthusiast • Open-Source Builder</strong>
-</p>
+# Iheb Heni
 
-<p align="center">
-  <a href="https://ihebheni.infinityfreeapp.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/iheb-heni/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/iheb-heni">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+### Full-Stack Developer — Laravel & Vue.js — AI Enthusiast
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00F72E&center=true&vCenter=true&width=700&lines=Building+modern+web+applications;Laravel+%2B+Vue.js+developer;Exploring+AI+%26+Data+Science;Turning+ideas+into+real+products;Open+source+%26+continuous+learning" alt="Typing SVG"/>
-</p>
+<a href="https://ihebheni.infinityfreeapp.com"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/iheb-heni/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/iheb-heni"><img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white" /></a>
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=6E56CF&center=true&vCenter=true&width=600&lines=Building+modern+web+applications;Laravel+%2B+Vue.js+developer;Exploring+AI+%26+Data+Science;Turning+ideas+into+real+products" />
 
-## 👨‍💻 About Me
+</div>
 
-I'm **Iheb Heni**, a Full-Stack Developer focused on building reliable, scalable and modern web applications.
+<br>
 
-My main ecosystem is **Laravel + Vue.js**, while I also explore **Artificial Intelligence, Data Science, DevOps and Cloud technologies**.
+## About
 
-```text
-💻 Full-Stack Development
-⚙️ Laravel / PHP / REST APIs
-🎨 Vue.js / JavaScript / Bootstrap
-🤖 AI & Data Science
-🐳 Docker & DevOps
-🔐 Authentication & API Security
-🗄️ MySQL / PostgreSQL
-🚀 Open Source & Product Development
-```
+Full-Stack Developer focused on building reliable, scalable, modern web applications. Core ecosystem is **Laravel + Vue.js**, with ongoing work in AI, data science, DevOps, and cloud infrastructure.
 
-I enjoy turning ideas into complete products — from **database architecture and APIs** to **modern interfaces, deployment and AI-powered features**.
+Interested in complete products — database architecture, APIs, interfaces, deployment, and AI-driven features.
 
----
+<br>
 
-## 🧰 Tech Stack
+## Stack
 
-### Frontend
+<table>
+<tr>
+<td valign="top" width="33%">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=vue,js,html,css,bootstrap,tailwind,vite" />
-</p>
+**Frontend**
+<br>
+<img src="https://skillicons.dev/icons?i=vue,js,html,css,tailwind,vite" />
 
-### Backend
+</td>
+<td valign="top" width="33%">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,python,flask,django,mysql,postgres" />
-</p>
+**Backend**
+<br>
+<img src="https://skillicons.dev/icons?i=php,laravel,python,flask,django,mysql,postgres" />
 
-### DevOps & Tools
+</td>
+<td valign="top" width="33%">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,jenkins,nginx" />
-</p>
+**Tools**
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,nginx" />
 
-### AI & Data
+</td>
+</tr>
+</table>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
-</p>
+<br>
 
----
+## Projects
 
-## 🚀 Featured Projects
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🧠 EntreprisePluse
-
-**Intelligent HR Management SaaS**
-
-A modular SaaS platform designed to manage companies, employees, permissions, attendance, leave management, dashboards and intelligent HR features.
-
-**Stack**
+### EntreprisePluse
+Intelligent HR management SaaS — companies, employees, permissions, attendance, leave management, dashboards, AI features.
 
 `Laravel 12` `Vue 3` `Vite` `JWT` `MySQL` `AI` `Stripe` `Docker`
 
----
+</td>
+<td width="50%" valign="top">
 
-### 🌱 SmartSeason
+### SmartSeason
+Seasonal recruitment campaign platform with employee, attendance, and HR workflows, enhanced with AI.
 
-**Intelligent Seasonal Campaign Management System**
+`Laravel` `Vue.js` `Flask` `MySQL` `Pusher` `Ollama`
 
-A complete platform for managing seasonal recruitment campaigns, employees, attendance and HR workflows, enhanced with AI capabilities.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**Stack**
+### Discipline Dashboard
+Chrome new-tab productivity dashboard — habits, tasks, streaks, statistics, dark mode, local storage, no account required.
 
-`Laravel` `Vue.js` `Flask` `MySQL` `Pusher` `Ollama` `AI`
+`JavaScript` `Chrome Extension API` `Chart.js`
+<br>
+[Source →](https://github.com/iheb-heni/discipline-dashboard)
 
----
+</td>
+<td width="50%" valign="top">
 
-### 📊 Discipline Dashboard
+### TounsiGo
+Taxi ordering and tracking platform with real-time tracking, auth, maps, and user–driver communication.
 
-**Chrome New Tab Productivity Extension**
+`Laravel` `Blade` `MySQL` `Firebase` `Pusher` `Google Maps API`
 
-A lightweight productivity dashboard that transforms the Chrome new-tab page into a personal workspace for habits, tasks, subtasks, statistics and streak tracking.
+</td>
+</tr>
+</table>
 
-**Features**
+<br>
 
-* Habit tracking
-* Daily tasks
-* Streak system
-* Weekly statistics
-* Interactive charts
-* Local data storage
-* Dark mode
-* No account required
+## GitHub Stats
 
-**Stack**
+<div align="center">
 
-`JavaScript` `HTML` `CSS` `Chrome Extension API` `Chart.js`
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=iheb-heni&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iheb-heni&layout=compact&hide_border=true&theme=github_dark" />
 
-🔗 **Open Source:**
-https://github.com/iheb-heni/discipline-dashboard
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iheb-heni&theme=github-dark-blue&hide_border=true" />
 
----
+<img src="https://raw.githubusercontent.com/iheb-heni/iheb-heni/output/github-contribution-grid-snake.svg" />
 
-### 🚕 TounsiGo
+</div>
 
-**Taxi Ordering & Tracking Platform**
+<br>
 
-A transportation platform developed as an academic project with real-time tracking, authentication, maps and communication between users and drivers.
+## Currently Exploring
 
-**Stack**
+- Advanced Laravel architecture
+- Modern Vue.js applications
+- Artificial intelligence and LLMs
+- Data science and machine learning
+- Docker, DevOps, and cloud deployment
+- API security and scalable systems
 
-`Laravel` `Blade` `MySQL` `JWT / Sanctum` `Firebase` `Pusher` `Google Maps API`
+<br>
 
----
+<div align="center">
 
-## 📈 GitHub Statistics
+**Build it. Understand it. Improve it. Share it.**
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=iheb-heni&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iheb-heni&layout=compact&hide_border=true&theme=github_dark" />
-</p>
+<a href="https://www.linkedin.com/in/iheb-heni/"><img src="https://img.shields.io/badge/Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://ihebheni.infinityfreeapp.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iheb-heni&theme=github-dark-blue&hide_border=true" />
-</p>
-
----
-
-## 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/iheb-heni/iheb-heni/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</p>
-
----
-
-## 🎯 Currently Exploring
-
-```text
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│  🚀 Advanced Laravel Architecture                       │
-│  🎨 Modern Vue.js Applications                          │
-│  🤖 Artificial Intelligence & LLMs                      │
-│  📊 Data Science & Machine Learning                     │
-│  🐳 Docker & DevOps                                    │
-│  ☁️ Cloud Deployment & Infrastructure                   │
-│  🔐 API Security & Scalable Architectures              │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-```
-
----
-
-## 💡 Development Philosophy
-
-> **Build it. Understand it. Improve it. Share it.**
-
-I believe the best way to learn software engineering is to **build real products**, solve real problems and continuously improve the architecture behind them.
-
----
-
-## 🌍 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/iheb-heni/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://ihebheni.infinityfreeapp.com">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <i>Always building. Always learning. Always improving.</i>
-</p>
+</div>
