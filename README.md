@@ -1,73 +1,198 @@
-<!-- En-tête animé -->
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F72E&center=true&vCenter=true&width=435&lines=Bonjour%2C+Je+suis+Iheb+Heni;FullStack+Developer;Laravel+%26+Vue.js+Specialist;Data+Science+Learner;Open-Source+Enthusiast" alt="Typing SVG" />
-  </a>
-</h1>
+<h1 align="center">Hi 👋, I'm Iheb Heni</h1>
 
-<!-- Badges sociaux animés -->
 <p align="center">
+  <strong>Full-Stack Developer • Laravel & Vue.js • AI Enthusiast • Open-Source Builder</strong>
+</p>
+
+<p align="center">
+  <a href="https://ihebheni.infinityfreeapp.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+  </a>
   <a href="https://www.linkedin.com/in/iheb-heni/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iheb-heni/" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://ihebheni.infinityfreeapp.com/">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139&link=https://ihebheni.infinityfreeapp.com/"/>
-  </a>
-  <a href="mailto:votre@email.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:votre@email.com"/>
+  <a href="https://github.com/iheb-heni">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
-<!-- Section Compétences avec icônes animées -->
-## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00F72E&center=true&vCenter=true&width=700&lines=Building+modern+web+applications;Laravel+%2B+Vue.js+developer;Exploring+AI+%26+Data+Science;Turning+ideas+into+real+products;Open+source+%26+continuous+learning" alt="Typing SVG"/>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I'm **Iheb Heni**, a Full-Stack Developer focused on building reliable, scalable and modern web applications.
+
+My main ecosystem is **Laravel + Vue.js**, while I also explore **Artificial Intelligence, Data Science, DevOps and Cloud technologies**.
+
+```text
+💻 Full-Stack Development
+⚙️ Laravel / PHP / REST APIs
+🎨 Vue.js / JavaScript / Bootstrap
+🤖 AI & Data Science
+🐳 Docker & DevOps
+🔐 Authentication & API Security
+🗄️ MySQL / PostgreSQL
+🚀 Open Source & Product Development
+```
+
+I enjoy turning ideas into complete products — from **database architecture and APIs** to **modern interfaces, deployment and AI-powered features**.
+
+---
+
+## 🧰 Tech Stack
 
 ### Frontend
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Backend
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=api&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-<!-- Statistiques GitHub avec thème personnalisé -->
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iheb-heni&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iheb-heni&theme=vision-friendly-dark&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iheb-heni&layout=compact&theme=vision-friendly-dark&hide_border=true"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=vue,js,html,css,bootstrap,tailwind,vite" />
 </p>
 
-<!-- Section Projets -->
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,python,flask,django,mysql,postgres" />
+</p>
+
+### DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,jenkins,nginx" />
+</p>
+
+### AI & Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+</p>
+
+---
+
 ## 🚀 Featured Projects
 
-### SersTour+ (En cours)
-[![SersTour+](https://img.shields.io/badge/SersTour+-007ACC?style=for-the-badge&logo=react&logoColor=white)](https://github.com/iheb-heni/serstour-plus)
-> Plateforme de gestion touristique avec Laravel et Vue.js
+### 🧠 EntreprisePluse
 
-### Autres Projets
-- [**E-commerce Platform**](https://github.com/...) - Solution e-commerce complète
-- [**Task Manager**](https://github.com/...) - Application de gestion de tâches en temps réel
+**Intelligent HR Management SaaS**
 
-<!-- Timeline d'apprentissage -->
-## 🌱 Learning Path
+A modular SaaS platform designed to manage companies, employees, permissions, attendance, leave management, dashboards and intelligent HR features.
 
-```mermaid
-gantt
-    title Roadmap de Développement
-    dateFormat  YYYY-MM-DD
-    section Compétences
-    Vue.js Mastery           :active,    des1, 2023-01-01, 2023-12-31
-    Laravel Advanced         :active,    des2, 2023-03-01, 2023-12-31
-    Data Science Basics      :active,    des3, 2023-06-01, 2023-12-31
-    section Projets
-    SersTour+ Development   :active,    des4, 2023-05-01, 2023-12-31
+**Stack**
+
+`Laravel 12` `Vue 3` `Vite` `JWT` `MySQL` `AI` `Stripe` `Docker`
+
+---
+
+### 🌱 SmartSeason
+
+**Intelligent Seasonal Campaign Management System**
+
+A complete platform for managing seasonal recruitment campaigns, employees, attendance and HR workflows, enhanced with AI capabilities.
+
+**Stack**
+
+`Laravel` `Vue.js` `Flask` `MySQL` `Pusher` `Ollama` `AI`
+
+---
+
+### 📊 Discipline Dashboard
+
+**Chrome New Tab Productivity Extension**
+
+A lightweight productivity dashboard that transforms the Chrome new-tab page into a personal workspace for habits, tasks, subtasks, statistics and streak tracking.
+
+**Features**
+
+* Habit tracking
+* Daily tasks
+* Streak system
+* Weekly statistics
+* Interactive charts
+* Local data storage
+* Dark mode
+* No account required
+
+**Stack**
+
+`JavaScript` `HTML` `CSS` `Chrome Extension API` `Chart.js`
+
+🔗 **Open Source:**
+https://github.com/iheb-heni/discipline-dashboard
+
+---
+
+### 🚕 TounsiGo
+
+**Taxi Ordering & Tracking Platform**
+
+A transportation platform developed as an academic project with real-time tracking, authentication, maps and communication between users and drivers.
+
+**Stack**
+
+`Laravel` `Blade` `MySQL` `JWT / Sanctum` `Firebase` `Pusher` `Google Maps API`
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=iheb-heni&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iheb-heni&layout=compact&hide_border=true&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iheb-heni&theme=github-dark-blue&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/iheb-heni/iheb-heni/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+</p>
+
+---
+
+## 🎯 Currently Exploring
+
+```text
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│  🚀 Advanced Laravel Architecture                       │
+│  🎨 Modern Vue.js Applications                          │
+│  🤖 Artificial Intelligence & LLMs                      │
+│  📊 Data Science & Machine Learning                     │
+│  🐳 Docker & DevOps                                    │
+│  ☁️ Cloud Deployment & Infrastructure                   │
+│  🔐 API Security & Scalable Architectures              │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 💡 Development Philosophy
+
+> **Build it. Understand it. Improve it. Share it.**
+
+I believe the best way to learn software engineering is to **build real products**, solve real problems and continuously improve the architecture behind them.
+
+---
+
+## 🌍 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/iheb-heni/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://ihebheni.infinityfreeapp.com">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Always building. Always learning. Always improving.</i>
+</p>
